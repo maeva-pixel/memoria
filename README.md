@@ -1,7 +1,8 @@
 # memoria
 Authors : Clément Favreau, Maeva Siga
 
-UPV Master Informatica
+UPV Master Informatica,
+
 SAD Portfolio
 
 This is the portfolio with all the dues activities. 
