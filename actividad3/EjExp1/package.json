@@ -1,0 +1,11 @@
+{
+	"name": "ExpressServer",
+	"version": "0.0.1",
+	"main": "./exp1.js",
+	"dependencies": {
+		"basic-auth": "1.0.3",
+		"compression": "^1.7.4",
+		"express": "^4.17.1",
+		"morgan": "^1.10.0"
+	}
+}
