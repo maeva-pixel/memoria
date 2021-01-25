@@ -1,6 +1,5 @@
 # memoria
-Clément Favreau
-Maeva Siga
+Authors : Clément Favreau, Maeva Siga
 
 UPV Master Informatica
 SAD Portfolio
