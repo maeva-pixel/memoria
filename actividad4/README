@@ -1,0 +1,8 @@
+Actividad servicio REST con promesas
+
+To execute this app the line command is node servicio.js .
+
+This module allows you to modify and see the shopping cart and the database.
+Once again in the file service.js you can find a JASON body exemple for each post middleware to kwon how you should do the post requests.
+
+The file document.js is a mongoose schema used to create new items to add to the collections.

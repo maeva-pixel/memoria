@@ -1,0 +1,12 @@
+Actividad broker ZEROMQ
+
+In this module there is a file called broker.js that execute the requests sent by the client (addinf or deleting items from their shopping carts).
+The broker create a shopping cart in the database if it's the first time that a client send a request.
+
+The files carrtito.js and carrito2.js do the actual modifications on MongoDB.
+
+The files client1.js and client2.js are just some exemples to show the correct working of the module and test the comunication between the req and the rep sockets from ZMQ.
+
+To execute the program the command lines are:
+> node broker.js
+> node client1.js (or client2.js)

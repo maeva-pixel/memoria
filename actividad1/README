@@ -1,0 +1,7 @@
+This is the Modulo Carrito de la compra.
+
+The file called Cliente_mongo allow to create a Database called almacen and a collection called products with some items that we can put in the shopping cart.
+
+The file called "carrito.js" allows to do some simple operations : add and remove some items from a new mongodb collection called carrito.
+
+The file "carrito2.js" do the same but it also check if the product is stil avaible and it update the stock number.

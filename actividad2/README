@@ -1,0 +1,12 @@
+Actividad carrito de la compra como servicio REST
+
+To launch the REST app the line command is node server.js
+
+Theserver will listen to the port 8000 of the vagrant machine and execute the REST service of the file service.js
+
+In this file (service.js) you can find the instructions to send the right type of request. In fact, for each POST request you have a JASON BODY exemple of how the request should be sent. 
+
+The service we created allows to see the shopping cart, to add or remove an item and to see and modify the almacen MongoDB collection. 
+
+The installation of some supplementary node modules could be necessary.
+
